@@ -1,6 +1,6 @@
 # 🖥️ Projeto de Estudos – Página de Newsletter (Frontend)
 
-🔗 Acesse o projeto online:
+🔗 Acesse o projeto online: https://xsaragiotto.github.io/Estudos-NexaCode-Newsletter/
 
 Este repositório contém uma landing page desenvolvida com HTML5 e CSS3, focada em captação de leads via formulário. O projeto foi criado como exercício prático de estruturação, responsividade e aplicação de design moderno.  
 Futuramente, será integrado a um backend em PHP com banco de dados MySQL.
